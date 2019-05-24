@@ -255,10 +255,10 @@ void display1(void)
     sprintf(string, "BY:");
     printtext(600,450,string);
 
-    sprintf(string,"THEJAS RAJU G  (1DT14CS104)");
+    sprintf(string,"NAME-1");
     printtext(600,400,string);
 
-    sprintf(string,"RANJITH VS     (1DT14CS075)");
+    sprintf(string,"NAME-2");
     printtext(600,350,string);
 
     sprintf(string,"PRESS SPACE TO CONTINUE");
